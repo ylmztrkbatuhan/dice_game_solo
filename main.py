@@ -42,3 +42,5 @@ class PLayer:
 
     def roll_die(self):
         return self._die.roll()
+
+
