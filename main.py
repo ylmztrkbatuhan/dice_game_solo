@@ -56,7 +56,7 @@ class DiceGame:
         print("===================================")
         while True:
             self.play_round()
-            #Todo:implement game over
+            #To-do:implement game over
 
     def play_round(self):
         #Welcome the user
